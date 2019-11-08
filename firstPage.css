@@ -1,0 +1,48 @@
+table, th, td {border: 1px solid rgb(224, 156, 7);;}
+h1{
+	/*color: rgb(39, 37, 37); */
+	color: #000;
+	font-family: 'Helvetica Bold';
+}
+
+h2{color: rgb(48, 46, 46); font-family: 'Helvetica Bold'; }
+h3{color: rgb(34, 33, 33);}
+#hello{
+	color: #00204A;
+	font: 30px Georgia;
+}
+p {color: rgb(80, 80, 80);}
+body{color: rgb(223, 149, 12);}
+body {background-color: rgba(15, 16, 17, 0.856);}
+
+#log{
+    width: 25%;
+    height: 350px;
+    float: left;
+    margin: 55px;
+    /*background-color: rgba(255, 255, 255, 0.911);*/
+    background: #DDD;
+}
+#login{
+    width: 60%;
+    height: 2600px;
+    float: auto;
+    background-color: rgba(255, 255, 255, 0.979);
+}
+
+#admin{
+    width: 60%;
+    height: 5300px;
+    float: auto;
+    background-color: rgba(255, 255, 255, 0.979);
+}
+.button{
+	background: #E27575;
+	border: none;
+	padding: 10px 25px 10px 25px;
+	color: #FFF;
+	box-shadow: 1px 1px 5px #B6B6B6;
+	border-radius: 3px;
+	text-shadow: 1px 1px 1px #9E3F3F;
+	cursor: pointer;
+}
